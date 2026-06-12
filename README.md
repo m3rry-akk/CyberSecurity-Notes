@@ -1,10 +1,20 @@
-# My CyberSecurity Learning Journey
+# 🛡️ My Cybersecurity Learning Journey
 
-Welcome to my portfolio. Here, I document everything I learn during my university studies and hands-on cybersecurity labs.
+Welcome to my personal cybersecurity repository. Here, I document my progress, hands-on laboratories, technical notes, and Capture The Flag (CTF) writeups.
 
-## 🐧 Linux Practice Notes
-Click the links below to view my structured notes for each part of the TryHackMe Linux Fundamentals series:
+---
 
-* [Linux Fundamentals: Part 1](./Linux-Fundamentals/Part-1.md) - Basic commands, navigation, and file system overview.
-* [Linux Fundamentals: Part 2](./Linux-Fundamentals/Part-2.md) - *Learning in progress...*
-* [Linux Fundamentals: Part 3](./Linux-Fundamentals/Part-3.md) - *Learning in progress...*
+## 🗺️ Learning Track & Modules
+
+### 🐧 1. Linux Operating System Context
+* [✅] **Linux Fundamentals Part 1:** Core CLI concepts, navigation commands, advanced find/grep searching, and basic shell operators.
+* [ ] **Linux Fundamentals Part 2 (Self-Guided):** Advanced file permissions (`chmod`), file ownerships (`chown`), system logs analysis, and package auditing via local Kali Linux labs. ⏳ *[Next Destination]*
+
+### 🏴‍☠️ 2. Practical Wargames & Hands-on Labs
+* [ ] **OverTheWire (Bandit Series):** Learning advanced Linux CLI commands, cryptography basics, and file filtering via a security wargame. 📅 *[Planned]*
+
+---
+
+## 🛠️ Laboratory Environment
+* **Host OS:** Kali Linux (Offensive Security Distribution)
+* **Methodology:** Hands-on console interaction and script automation.
