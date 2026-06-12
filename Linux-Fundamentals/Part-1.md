@@ -85,6 +85,7 @@ To see what files or folders exist in your current location:
 tryhackme@linux1:~$ ls
 'Important Files'  'My Documents'   Notes   Pictures
 
+
 ## 🔍 Searching for Files and Data (Automation Tools)
 
 As a Linux system expands, relying manually on `cd` and `ls` becomes highly inefficient. Linux provides powerful built-in utilities like `find` and `grep` to automate system-wide searching and log analysis.
