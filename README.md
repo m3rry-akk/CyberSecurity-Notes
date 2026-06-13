@@ -4,6 +4,12 @@ Welcome to my personal cybersecurity repository. Here, I document my progress, h
 
 ---
 
+# 🐧 Linux Fundamentals Study Notes
+
+Welcome to my Linux Learning Journey repository! This section documentation contains core concepts, hands-on practices, and self-guided laboratory logs for cybersecurity and system administration.
+
+---
+
 ## 🗺️ Learning Path & Modules Index
 
 ### 📚 [Part 1: Linux Core Concepts](./Part-1.md)
