@@ -12,17 +12,17 @@ Welcome to my Linux Learning Journey repository! This section documentation cont
 
 ## 🗺️ Learning Path & Modules Index
 
-### 📚 [Part 1: Linux Core Concepts](./Part-1.md)
+### 📚 [Part 1: Linux Core Concepts](./Linux-Fundamentals/Part-1.md)
 * Comprehensive overview of the Linux file system hierarchy.
 * Essential command-line navigation and file manipulation utilities (`ls`, `cd`, `mkdir`, `cp`, `mv`).
 * Standard input/output redirection and text processing.
 
-### 🧪 [Part 2: Self-Guided Lab (Permissions & Auditing)](./Part-2.md)
+### 🧪 [Part 2: Self-Guided Lab (Permissions & Auditing)](./Linux-Fundamentals/Part-2.md)
 * **File Permissions:** Deciphering Octal/Symbolic modes using `chmod`.
 * **Structural Authority:** Managing User and Group properties using `chown`.
 * **System Forensics:** Inspecting system behaviors and filtering logs with `journalctl` and `grep`.
 
-### 🚀 [Part 3: ှSelf-Guided Lab (Advanced Utilities & Automation)](./Part-3.md) 
+### 🚀 [Part 3: Advanced Utilities & Automation](./Linux-Fundamentals/Part-3.md) — *[In Progress]*
 * **Process Management:** Monitoring system processes via `ps`/`top` and killing tasks.
 * **Task Automation:** Configuring automated execution schedules using `cron` and `crontab`.
 * **Network Operations:** Command-line remote data transfers using `wget` and `curl`.
