@@ -4,6 +4,22 @@ Welcome to my personal cybersecurity repository. Here, I document my progress, h
 
 ---
 
+# 🔍 Web Crawling, SEO, & Advanced Google Dorking Notes
+
+A professional, comprehensive study guide covering search engine mechanics, web crawler traversal logic, structural access controls via `robots.txt`, sitemap optimization, and reconnaissance using advanced search operators (Google Dorking) for penetration testing.
+
+---
+
+## 📌 Table of Contents
+1. [Introduction to Search Engines](#1-introduction-to-search-engines)
+2. [Web Crawlers & Indexing Mechanics](#2-web-crawlers--indexing-mechanics)
+3. [Search Engine Optimization (SEO) Concepts](#3-search-engine-optimization-seo-concepts)
+4. [Sitemaps Architecture](#4-sitemaps-architecture)
+5. [Robots.txt Access Control Configurations](#5-robotstxt-access-control-configurations)
+6. [Advanced Searching & Reconnaissance (Google Dorking)](#6-advanced-searching--reconnaissance-google-dorking)
+
+---
+
 # 🐧 Linux Fundamentals Study Notes
 
 Welcome to my Linux Learning Journey repository! This section documentation contains core concepts, hands-on practices, and self-guided laboratory logs for cybersecurity and system administration.
