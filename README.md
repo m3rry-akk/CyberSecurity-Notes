@@ -4,11 +4,22 @@ Welcome to my personal cybersecurity repository. Here, I document my progress, h
 
 ---
 
-## 🗺️ Learning Track & Modules
+## 🗺️ Learning Path & Modules Index
 
-### 🐧 1. Linux Operating System Context
-* [✅] **Linux Fundamentals Part 1:** Core CLI concepts, navigation commands, advanced find/grep searching, and basic shell operators.
-* [ ] **Linux Fundamentals Part 2 (Self-Guided):** Advanced file permissions (`chmod`), file ownerships (`chown`), system logs analysis, and package auditing via local Kali Linux labs. ⏳ *[Next Destination]*
+### 📚 [Part 1: Linux Core Concepts](./Part-1.md)
+* Comprehensive overview of the Linux file system hierarchy.
+* Essential command-line navigation and file manipulation utilities (`ls`, `cd`, `mkdir`, `cp`, `mv`).
+* Standard input/output redirection and text processing.
+
+### 🧪 [Part 2: Self-Guided Lab (Permissions & Auditing)](./Part-2.md)
+* **File Permissions:** Deciphering Octal/Symbolic modes using `chmod`.
+* **Structural Authority:** Managing User and Group properties using `chown`.
+* **System Forensics:** Inspecting system behaviors and filtering logs with `journalctl` and `grep`.
+
+### 🚀 [Part 3: ှSelf-Guided Lab (Advanced Utilities & Automation)](./Part-3.md) 
+* **Process Management:** Monitoring system processes via `ps`/`top` and killing tasks.
+* **Task Automation:** Configuring automated execution schedules using `cron` and `crontab`.
+* **Network Operations:** Command-line remote data transfers using `wget` and `curl`.
 
 ### 🏴‍☠️ 2. Practical Wargames & Hands-on Labs
 * [ ] **OverTheWire (Bandit Series):** Learning advanced Linux CLI commands, cryptography basics, and file filtering via a security wargame. 📅 *[Planned]*
